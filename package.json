@@ -1,0 +1,26 @@
+{
+  "name": "httpserver_httpmodule",
+  "version": "1.0.0",
+  "description": "Http server using http module of Node JS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddhar28/HttpServer_httpModule.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ddhar28/HttpServer_httpModule/issues"
+  },
+  "homepage": "https://github.com/ddhar28/HttpServer_httpModule#readme",
+  "dependencies": {
+    "mime": "^2.4.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
